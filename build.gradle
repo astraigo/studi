@@ -1,0 +1,12 @@
+plugins {
+    kotlin("jvm") apply false
+    kotlin("multiplatform") apply false
+    kotlin("plugin.serialization") apply false
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}

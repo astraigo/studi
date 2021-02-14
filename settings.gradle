@@ -1,0 +1,6 @@
+rootProject.name = 'studi'
+include 'validator'
+include 'test2'
+include 'test2'
+include 'test  2'
+
